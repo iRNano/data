@@ -1,0 +1,32 @@
+{
+            "type": "Feature",
+            "id": "node/332018913",
+            "properties": {
+                "type": "node",
+                "id": "332018913",
+                "tags": {
+                    "ele": "596",
+                    "gns:dsg": "MT",
+                    "gns:uni": "-3337116",
+                    "is_in:state": "Rizal",
+                    "name": "Mount Calumpog",
+                    "natural": "peak",
+                    "source": "GNS"
+                },
+                "relations": [],
+                "meta": {
+                    "timestamp": "2018-12-15T09:18:23Z",
+                    "version": "4",
+                    "changeset": "65494555",
+                    "user": "caspermonte",
+                    "uid": "1888269"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.266667,
+                    14.75
+                ]
+            }
+        }
